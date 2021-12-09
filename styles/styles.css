@@ -103,6 +103,9 @@ header {
 
 .span-alert {
     float: left;
+    margin-left: .7rem;
+    margin-top: .6rem;
+
 }
 
 @media screen and (min-width: 600px){
